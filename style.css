@@ -35,7 +35,7 @@ section {
   display: flex;
 }
 #About-Me-section {
-  background-image: url(/images/shapes/7.png);
+  background-image: url(images/shapes/7.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
