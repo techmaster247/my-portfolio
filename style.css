@@ -81,12 +81,13 @@ section {
 }
 .recipies-title {
    display: flex;
+   
 }
 #recipies-section{
-    
+    display: flex;
 }
 .recipies-image img{
-   
+   width:30%;
     
     
 }
