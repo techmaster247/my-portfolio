@@ -1,0 +1,92 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif;
+ 
+}
+section {
+  display: flex;
+}
+.text-area {
+  width: 50%;
+  margin-top: 200px;
+  padding-left: 5%;
+}
+.text-area h2 {
+  font-size: 60px;
+}
+.text-area p {
+  font-size: 30px;
+  margin-bottom: 100px;
+}
+.text-area a {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 75px 75px;
+  color: white;
+  font-weight: lighter;
+  margin-top: 20px;
+}
+.banner-area {
+  width: 50%;
+  margin-top: 50px;
+}
+#header-section {
+  margin-bottom: 100px;
+}
+#About-Me-section {
+  background-image: url(/images/shapes/7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.About-Me-section {
+  width: 50%;
+}
+.About-Me-section img {
+  height: 100px;
+  width: 50%;
+}
+.about-img img {
+  height: 600px;
+  margin-top: 37px;
+  padding-left: 200px;
+}
+
+.about-text {
+  width: 50%;
+  margin-left: 250px;
+  margin-top: 100px;
+}
+.about-text h2 {
+  color: gray;
+  font-size: 80px;
+}
+.about-text p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 80px;
+}
+.about-text a {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 75px 75px;
+  color: white;
+  font-weight: lighter;
+  margin-top: 20px;
+}
+.recipies-title {
+   display: flex;
+}
+#recipies-section{
+    
+}
+.recipies-image img{
+   
+    
+    
+}
